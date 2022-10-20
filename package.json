@@ -1,0 +1,29 @@
+{
+  "name": "loovpay-ngx",
+  "version": "1.0.0",
+  "description": "Online payment solution fior agular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Loov-solution/angular-sdk.git"
+  },
+  "keywords": [
+    "angular",
+    "payment",
+    "online_payment_solution",
+    "payment_solution",
+    "loov",
+    "loovpay",
+    "loov_payment",
+    "loov_solotion"
+  ],
+  "author": "ISDG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Loov-solution/angular-sdk/issues"
+  },
+  "homepage": "https://github.com/Loov-solution/angular-sdk#readme"
+}
